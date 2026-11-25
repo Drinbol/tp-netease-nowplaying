@@ -1,0 +1,14 @@
+# 依赖
+node_modules/
+
+# 学习草稿（本地保留，不入库）
+2.js
+event.js
+test.js
+myclient.js
+sample.js
+
+# Env & IDE
+.env
+.idea/
+*:Zone.Identifier

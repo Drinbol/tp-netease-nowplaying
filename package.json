@@ -1,0 +1,13 @@
+{
+  "name": "tp-netease-nowplaying",
+  "version": "1.0.0",
+  "description": "Touch Portal 插件：读取网易云音乐进程内存，同步播放状态",
+  "main": "main.js",
+  "author": "Drinbol",
+  "license": "MIT",
+  "dependencies": {
+    "memoryjs": "^3.4.0",
+    "sleep": "^6.3.0",
+    "touchportal-api": "^3.1.2"
+  }
+}
